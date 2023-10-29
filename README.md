@@ -1,1 +1,2 @@
-# Welcome to Walter's Chinese Class App
+# Chinese Class
+### Welcome to Walter's Chinese Class App!
