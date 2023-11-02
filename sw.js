@@ -15,5 +15,5 @@ var VERSION = 'version_000001';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/hw`,
-  `${GHPATH}/walter-work`
+  `${GHPATH}/walterwork`
 ]
